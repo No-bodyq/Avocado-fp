@@ -115,6 +115,10 @@ footer > .left {
   cursor: pointer;
 }
 
+footer {
+  padding: 0px 30px 0px 30px;
+}
+
 @media (max-width: 1400px) {
   .carousel-container {
     left: 50px;
